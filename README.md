@@ -1,5 +1,6 @@
 𝐍𝐘𝐒 - 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐌𝐞𝐧𝐭𝐚𝐥 𝐇𝐞𝐚𝐥𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐮𝐫𝐢𝐧𝐠 𝐎𝐧𝐥𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
 
+
 With the shift to digital learning environments, the importance of tracking students' well-being became more critical than ever. This report explores key metrics such as 𝐬𝐜𝐫𝐞𝐞𝐧 𝐭𝐢𝐦𝐞, 𝐩𝐡𝐲𝐬𝐢𝐜𝐚𝐥 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐲, 𝐬𝐥𝐞𝐞𝐩 𝐝𝐮𝐫𝐚𝐭𝐢𝐨𝐧, 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞, 𝐚𝐧𝐝 𝐬𝐭𝐫𝐞𝐬𝐬 𝐥𝐞𝐯𝐞𝐥𝐬 segmented by gender and education levels. These insights offer educators, policymakers, and mental health professionals a deeper understanding of the factors affecting students' mental health during prolonged virtual learning.
 
 𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲
