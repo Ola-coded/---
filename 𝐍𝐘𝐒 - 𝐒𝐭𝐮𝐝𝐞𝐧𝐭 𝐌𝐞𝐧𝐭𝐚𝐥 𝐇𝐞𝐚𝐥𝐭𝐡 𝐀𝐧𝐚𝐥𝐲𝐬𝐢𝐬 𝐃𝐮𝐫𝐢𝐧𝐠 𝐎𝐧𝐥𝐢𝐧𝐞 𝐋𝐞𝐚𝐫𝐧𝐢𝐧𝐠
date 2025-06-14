@@ -1,0 +1,87 @@
+𝐍𝐘𝐒 - 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐌𝐞𝐧𝐭𝐚𝐥 𝐇𝐞𝐚𝐥𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐮𝐫𝐢𝐧𝐠 𝐎𝐧𝐥𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+
+With the shift to digital learning environments, the importance of tracking students' well-being became more critical than ever. This report explores key metrics such as 𝐬𝐜𝐫𝐞𝐞𝐧 𝐭𝐢𝐦𝐞, 𝐩𝐡𝐲𝐬𝐢𝐜𝐚𝐥 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐲, 𝐬𝐥𝐞𝐞𝐩 𝐝𝐮𝐫𝐚𝐭𝐢𝐨𝐧, 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞, 𝐚𝐧𝐝 𝐬𝐭𝐫𝐞𝐬𝐬 𝐥𝐞𝐯𝐞𝐥𝐬 segmented by gender and education levels. These insights offer educators, policymakers, and mental health professionals a deeper understanding of the factors affecting students' mental health during prolonged virtual learning.
+
+𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲
+
+This analysis was conducted using Power BI, starting with the cleaning and transformation of student mental health data collected during online learning. Key metrics like screen time, physical activity, academic performance, and stress levels were modeled using DAX and visualized through interactive dashboards. Filters were applied for gender and education level to uncover trends and generate insights on how online learning impacts students’ well-being.
+
+𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧𝐬
+
+1. 𝐒𝐜𝐫𝐞𝐞𝐧 𝐓𝐢𝐦𝐞 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧
+
+𝐕𝐢𝐯𝐚𝐚𝐧 𝐚𝐧𝐝 𝐕𝐢𝐡𝐚𝐚𝐧 have the highest daily screen time.
+A significant number of students across all genders spend high amounts of time online
+𝐅𝐞𝐦𝐚𝐥𝐞 and 𝐦𝐚𝐥𝐞 students show nearly equal representation in both high and low screen time categories.
+“𝐎𝐭𝐡𝐞𝐫” gender category has comparatively fewer students but also shows high screen usage.
+
+2. 𝐏𝐡𝐲𝐬𝐢𝐜𝐚𝐥 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲
+
+𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐩𝐡𝐲𝐬𝐢𝐜𝐚𝐥 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐢𝐬 5.03 𝐡𝐫𝐬/𝐰𝐞𝐞𝐤, which is low compared to recommended weekly levels (typically 7–10 hours).
+Male and female students contribute nearly equally to the physical activity stats.
+Students identifying as “Other” have the lowest recorded participation in physical activity (~5.17%).
+
+3. 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
+
+Academic performance is most affected by high screen time:
+40.26% show improvement,
+30.83% have declined,
+28.92% remain unchanged.
+Indicates a mixed but concerning impact of screen time on academics.
+
+4. 𝐒𝐥𝐞𝐞𝐩𝐢𝐧𝐠 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧 𝐀𝐥𝐞𝐫𝐭𝐬
+
+More 𝐦𝐚𝐥𝐞 (230) and 𝐟𝐞𝐦𝐚𝐥𝐞 (236) students are flagged for high sleep duration concerns.
+“𝐎𝐭𝐡𝐞𝐫” gender has a significantly lower count, indicating possibly different behavioral patterns or underreporting.
+
+5. 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐭𝐫𝐞𝐬𝐬 𝐋𝐞𝐯𝐞𝐥
+
+𝐌-𝐓𝐞𝐜𝐡 students show the highest stress level breakdown:
+67 students have high stress.
+Stress is relatively high across all education levels, especially in technical programs.
+𝐁-𝐓𝐞𝐜𝐡 and 𝐌-𝐓𝐞𝐜𝐡 students combined have the most stress alerts across all levels.
+
+𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬
+
+1. 𝐋𝐚𝐮𝐧𝐜𝐡 𝐚 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐖𝐞𝐥𝐥𝐧𝐞𝐬𝐬 𝐈𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐯𝐞
+
+𝐏𝐮𝐫𝐩𝐨𝐬𝐞: To reduce excessive screen time and its negative effects.
+
+Organize monthly "𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐃𝐞𝐭𝐨𝐱 𝐃𝐚𝐲𝐬" encouraging students to limit device use.
+Share weekly 𝐭𝐢𝐩𝐬 and 𝐢𝐧𝐟𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜𝐬 on screen time management via WhatsApp or email.
+Integrate break-time reminders and eye-exercise alerts during long study sessions.
+Engage parents or guardians with awareness materials to support healthy tech habits.
+
+2. 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐝 𝐏𝐡𝐲𝐬𝐢𝐜𝐚𝐥 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬
+
+𝐏𝐮𝐫𝐩𝐨𝐬𝐞: To improve student well-being through physical engagement.
+
+Introduce a points-based reward system for tracking weekly physical activity hours.
+Include physical activity as a mandatory field in student wellness reporting.
+
+3. 𝐒𝐭𝐫𝐞𝐧𝐠𝐭𝐡𝐞𝐧 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐌𝐞𝐧𝐭𝐨𝐫𝐬𝐡𝐢𝐩 𝐚𝐧𝐝 𝐌𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠
+
+𝐏𝐮𝐫𝐩𝐨𝐬𝐞: To support academic improvement and reduce performance stress.
+
+Identify students with declining performance and assign mentors to follow up.
+Create monthly academic check-in forms to monitor study challenges.
+Offer online study skills workshops focusing on time management and focus.
+Match students for peer tutoring based on subject strength and performance gaps.
+
+4. 𝐃𝐞𝐯𝐞𝐥𝐨𝐩 𝐌𝐞𝐧𝐭𝐚𝐥 𝐇𝐞𝐚𝐥𝐭𝐡 & 𝐒𝐥𝐞𝐞𝐩 𝐖𝐞𝐥𝐥𝐧𝐞𝐬𝐬 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
+
+𝐏𝐮𝐫𝐩𝐨𝐬𝐞: To reduce stress and improve sleep hygiene among students.
+
+Host virtual workshops on managing stress, anxiety, and time pressure.
+Provide digital access to sleep hygiene checklists and bedtime routine guides.
+Partner with licensed counselors for confidential online sessions.
+Add a sleep duration self-assessment to student wellness forms.
+
+5. 𝐏𝐫𝐨𝐦𝐨𝐭𝐞 𝐃𝐚𝐭𝐚-𝐃𝐫𝐢𝐯𝐞𝐧 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+
+𝐏𝐮𝐫𝐩𝐨𝐬𝐞: To guide policy-making and intervention through data insights.
+
+Segment reports by gender and education level for targeted actions.
+Train school administrators and mentors on interpreting and using data.
+Collect student feedback to validate dashboard findings and plan next steps.
+
